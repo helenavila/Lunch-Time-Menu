@@ -1,0 +1,49 @@
+body {
+    background-image: url("pizza.jpg");
+}
+
+#title{
+    border-style: double;
+    border-width: 10px;
+    border-color: rgba(139, 214, 233, 0.884)
+}
+
+#imgMon{
+    margin: 5px;
+    border: 5px double burlywood;
+    height: 300px;
+    width: 300px;
+}
+   
+#imgTue{
+    margin: 5px;
+    border: 5px double burlywood;
+    height: 300px;
+    width: 300px;
+}
+
+#imgWed{
+    margin: 5px;
+    border: 5px double burlywood;
+    height: 300px;
+    width: 300px;
+}
+
+#imgThu{
+    margin: 5px;
+    border: 5px double burlywood;
+    height: 300px;
+    width: 300px;
+}
+
+#imgFri{
+    margin: 5px;
+    border: 5px double burlywood;
+    height: 300px;
+    width: 300px;
+}
+
+
+#dayM{font-family: 'Marcellus SC', serif;
+
+}
